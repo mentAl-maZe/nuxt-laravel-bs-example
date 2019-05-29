@@ -1,6 +1,6 @@
 {
     "name": "nuxt-laravel-bs-example",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": true,
     "scripts": {
         "setup": "npm run init && npm i && npm i --prefix resources/nuxt",
