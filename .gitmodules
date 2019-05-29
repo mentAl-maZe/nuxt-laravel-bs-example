@@ -1,0 +1,4 @@
+[submodule "resources/nuxt"]
+	path = resources/nuxt
+	url = https://github.com/mentAl-maZe/nuxt-bs-example.git
+    branch = master

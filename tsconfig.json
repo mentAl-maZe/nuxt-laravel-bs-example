@@ -1,0 +1,8 @@
+{
+    "extends": "./resources/nuxt/tsconfig.json",
+    "compilerOptions": {
+        "baseUrl": ".",
+        "typeRoots": ["./resources/nuxt/types"]
+    },
+    "include": ["./resoucres/nuxt/"]
+}
